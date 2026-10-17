@@ -1,19 +1,19 @@
 # CATopalian PY HTML App Builder
-This Python script is placed in the root of our HTML project folder and then we double click it to create a SINGLE HTML file of our entire project, which includes all the scripts and the css style! This makes it easy to share the app since it's now in one html file!
+This Python script is placed in the root of our HTML project folder and then we double click it to create a SINGLE HTML file of our entire project, which includes all the scripts and the CSS style! This makes it easy to share the app since it's now in one html file!
 
 ---
 
 # Instructions
 We place the pyw file in the root of our HTML project folder and then double click it.
 
-This will create a single file that consists of all of the js scripts and the css style.
+This will create a single file that consists of all of the js scripts and the CSS style.
 
 This makes it easy for us to share our app with people since it is now in one single file!
 
 # Important
 * Our html project file has to be named index.html
 
-* Our css project file needs to be named style001.css and must be in the folder named css, which is in the src folder.
+* Our CSS project file needs to be named style001.css and must be in the folder named css, which is in the src folder.
 
 ---
 
