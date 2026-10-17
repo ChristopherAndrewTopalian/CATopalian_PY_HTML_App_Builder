@@ -10,6 +10,11 @@ This will create a single file that consists of all of the js scripts and the cs
 
 This makes it easy for us to share our app with people since it is now in one single file!
 
+# Important
+* Our html project file has to be named index.html
+
+* Our css project file needs to be named style001.css and must be in the folder named css, which is in the src folder.
+
 ---
 
 ### How to Download this App
