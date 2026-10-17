@@ -13,7 +13,14 @@ This makes it easy for us to share our app with people since it is now in one si
 # Important
 * Our html project file has to be named index.html
 
+* Our subfolder must be named src
+
 * Our CSS project file needs to be named style001.css and must be in the folder named css, which is in the src folder.
+
+---
+
+So the idea is:  
+The pyw file is in the root project folder. In this root project folder we see the index.html file and the src folder.
 
 ---
 
