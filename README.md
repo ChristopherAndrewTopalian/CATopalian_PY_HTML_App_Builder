@@ -39,6 +39,23 @@ Now, when we double click the pyw file that is located in the root project folde
 
 ---
 
+Easy Instructions:
+Structure your HTML projects the way that we have done in this example project.
+
+We see that we have an index.html file. 
+
+Then we have an src folder.
+
+In the src folder we see a js folder and a css folder.
+
+In the css folder there is one file named style001.css
+
+In the js folder we have folders named anything we want and we have js files named anything we want.
+
+Now we double click on the pyw file that is located in the root of our HTML project and it will create a single file that consists of our entire HTML project.
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
