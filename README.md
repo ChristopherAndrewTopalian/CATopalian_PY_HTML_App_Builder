@@ -29,6 +29,14 @@ In this root project folder we see the index.html file and the src folder.
 
 In the src folder we see the js folder and the css folder.
 
+In the css folder we have one script named style001.css
+
+In the js folder we have other folders, such as whenLoaded, updateTime etc.
+
+In those js subfolers we can name our js files anything that we normally name them.
+
+Now, when we double click the pyw file that is located in the root project folder, it will create a single HTML file that consists of all of the HTML, CSS and JS files all put into one file for easy reading and easy sharing!
+
 ---
 
 ### How to Download this App
