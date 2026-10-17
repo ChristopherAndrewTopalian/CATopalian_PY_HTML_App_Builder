@@ -33,7 +33,7 @@ In the css folder we have one script named style001.css
 
 In the js folder we have other folders, such as whenLoaded, updateTime etc.
 
-In those js subfolers we can name our js files anything that we normally name them.
+In those js subfolders we can name our js files anything that we normally name them.
 
 Now, when we double click the pyw file that is located in the root project folder, it will create a single HTML file that consists of all of the HTML, CSS and JS files all put into one file for easy reading and easy sharing!
 
