@@ -15,12 +15,19 @@ This makes it easy for us to share our app with people since it is now in one si
 
 * Our subfolder must be named src
 
+* Our next subfolders must be named js and css
+
 * Our CSS project file needs to be named style001.css and must be in the folder named css, which is in the src folder.
 
 ---
 
-So the idea is:  
-The pyw file is in the root project folder. In this root project folder we see the index.html file and the src folder.
+So the idea is: 
+
+The pyw file is located in the root project folder.  
+
+In this root project folder we see the index.html file and the src folder.  
+
+In the src folder we see the js folder and the css folder.
 
 ---
 
