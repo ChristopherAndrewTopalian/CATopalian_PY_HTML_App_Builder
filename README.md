@@ -8,7 +8,7 @@ This Python script is placed in the root of our HTML project folder and then we 
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the the .pyw file
+5. Double click the the .pyw file to combine the HTML project files into ONE HTML file.
 
 ---
 
