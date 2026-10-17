@@ -3,6 +3,15 @@ This Python script is placed in the root of our HTML project folder and then we 
 
 ---
 
+# Instructions
+We place the pyw file in the root of our HTML project folder and then double click it.
+
+This will create a single file that consists of all of the js scripts and the css style.
+
+This makes it easy for us to share our app with people since it is now in one single file!
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
